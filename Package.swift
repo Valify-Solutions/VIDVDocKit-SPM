@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VIDVDocKit",
-            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVDocKit/1.7.4/VIDVDocKit.zip",
-            checksum: "b277ff5cbdaf8e5ae799a0a486a946fb3413ce9faaeffa497931cc42656bbf04"
+            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVDocKit/1.7.5/VIDVDocKit.zip",
+            checksum: "cf002e99cf752138b6700d61c9026bfa1586ffbecaaeee7bcc05db325ea30788"
         )
     ]
 )
